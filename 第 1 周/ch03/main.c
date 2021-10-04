@@ -95,3 +95,4 @@ CursorCell[TmpCell].Element = X ;
 CursorCell[TmpCell].Next = CursorSpace[P].Next ;
 CursorSpace[P].Next = TmpCell ;
 }
+
