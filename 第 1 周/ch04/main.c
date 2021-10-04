@@ -100,3 +100,4 @@ int main(int argc, char *argv[])
     checkSymbols(S);
     return 0;
 }
+
